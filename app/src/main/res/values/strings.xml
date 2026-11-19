@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Con Đường Anh Hùng</string>
+    <string name="stretch_screen_title">Nghỉ Giãn Cơ</string>
+    <string name="stretch_next_random">Động Tác Tiếp Theo</string>
+    <string name="stretch_instructions_header">Hướng Dẫn Từng Bước</string>
+    <string name="stretch_back_cd">Quay Lại Sảnh</string>
+</resources>

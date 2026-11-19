@@ -1,0 +1,8 @@
+{
+  "name": "Con Đường Anh Hùng",
+  "description": "Trò chơi thẻ bài chiến thuật PvE",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
